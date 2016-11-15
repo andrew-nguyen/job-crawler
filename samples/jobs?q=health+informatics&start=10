@@ -1,0 +1,6299 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<!-- pll -->
+
+<link rel="canonical" href="/q-Health-Informatics-jobs.html">
+
+
+
+<link href="/s/7a7e841/jobsearch_all.css" rel="stylesheet" type="text/css">
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="Health Informatics Jobs, Employment" href="http://rss.indeed.com/rss?q=health+informatics">
+<link rel="alternate" media="handheld" href="/m/jobs?q=health+informatics">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+            
+                <script type="text/javascript" src="/s/7bc6b4d/jobsearch-all-compiled.js"></script>
+            
+        
+    
+    
+
+
+
+<script type="text/javascript">
+var pingUrlsForGA = [];
+
+ 
+var searchUID = '1972kdpet0nk10p0';
+var tk = '1972kdpet0nk10p0';
+
+var loggedIn = false;
+var myindeed = true;
+var userEmail = '';
+var tellFriendEmail = '';
+var globalLoginURL = 'http:\/\/www.indeed.com\/account\/login?dest=%2Fjobs%3Fq%3Dhealth%2Binformatics%26start%3D10';
+var globalRegisterURL = 'http:\/\/www.indeed.com\/account\/register?dest=%2Fjobs%3Fq%3Dhealth%2Binformatics%26start%3D10';
+var searchKey = 'e1afc4074a98a99e';
+var searchState = 'q=health+informatics&amp;start=10';
+var searchQS = 'q=health+informatics&start=10';
+var eventType = 'jobsearch';
+var jasxHideBlockTst = 'INACTIVE';
+function clk(id) { var a = document.getElementById(id); var hr = a.href; var si = a.href.indexOf('&jsa='); if (si > 0) return; var jsh = hr + '&tk=1972kdpet0nk10p0&jsa=8301'; a.href = jsh; }
+function sjomd(id) { var a = document.getElementById(id); var hr = a.href; var ocs = hr.indexOf('&oc=1'); if (ocs < 0) return; var oce = ocs + 5; a.href = hr.substring(0, ocs) + hr.substring(oce); }
+function sjoc(id, sal) { var a = document.getElementById(id); a.href = a.href + '&oc=1&sal='+sal; }
+function ptk(st,p) {document.cookie = 'PTK="tk=1972kdpet0nk10p0&type=jobsearch&subtype='+st+(p?'&'+p:'')+'"; path=/';}
+function rbptk(st, c, p) { ptk(st, 'cat='+c+(p?'&p='+p:''));}
+
+</script>
+
+<script type="text/javascript">
+function loadJSAsync( ) {
+for ( var i = 0; i < arguments.length; i++ ) {
+var url = arguments[i];
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+s.async = true;
+s.src = url;
+el.parentNode.insertBefore(s, el);
+})();
+}
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="3,336  Health Informatics Jobs available on Indeed.com.  one search.  all jobs.">
+
+<meta name="keywords" content="Health Informatics Jobs, Employment,  careers,  employment,  job listings,  job search,  search engine, work in ">
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var indeedCsrfToken = 'Wm75fy5aeQKlxADIsaBewRV5WxYwhEaw';
+</script>
+
+<style type="text/css">
+#resultsCol { padding-top: 0; }
+.searchCount { margin-top: 6px; }
+.showing { padding-top: 9px; padding-bottom: 9px; }
+
+.brdr { height: 1px; overflow: hidden; background-color: #ccc; }
+
+#bjobalerts { margin-top: 0; }
+
+/* Tall window sizes */
+@media only screen and (min-height:780px){
+.showing { padding-bottom: 0; }
+}
+
+/* Wide window sizes */
+@media only screen and (min-width:1125px){
+.brdr  { margin-left: 12px; margin-right: 12px; }
+}
+</style>
+
+
+
+
+<style type="text/css">
+.sdn { color: #808080; }
+</style>
+
+
+
+<script>
+function onLoadHandler() {
+
+document.js.reset();
+logVisibleJk('1972kdpet0nk10p0');
+initLogScrollEnd('1972kdpet0nk10p0');
+
+
+if ( document.radius_update ) { document.radius_update.reset(); }
+
+restore('savedjobs',searchKey,searchState,window.tk,'');
+
+
+}
+
+initLogInitialUserInteraction('1972kdpet0nk10p0', 'serp');
+
+window.onload = onLoadHandler;
+</script>
+
+<title>Health Informatics Jobs, Employment
+|
+Indeed.com</title>
+</head>
+
+<body>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+body { margin-top: 0; margin-left: 0; margin-right: 0; padding-top: 0; padding-right: 0; padding-left: 0; }
+
+#g_nav { border-bottom:1px solid #ccc; margin-bottom: 9px; }
+
+#g_nav a,
+#g_nav a:visited { color: #00c; }
+
+.navBi { display: -moz-inline-box; display: inline-block; padding: 9px 12px; margin: 0; list-style-type: none; }
+</style>
+
+
+<div id="g_nav">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td nowrap>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#p_nav a.selected { font-weight: bold; text-decoration:none; color: #000 !important; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="p_nav"><span class="navBi"><a href="/" title="Jobs" id="jobsLink" class="selected">Find Jobs</a></span><span class="navBi"><a href="/resumes?isid=find-resumes&ikw=SERPtop&co=US&hl=en"  id="rezLink" >Find Resumes</a></span><span class="navBi"><a href="https://ads.indeed.com/?hl=en&cc=US" id="empLink"  onclick="if ( this.href.match('&isid=employerlink-US-control&ikw=SERPtop') == null ) { this.href += '&isid=employerlink-US-control&ikw=SERPtop' };" >Employers / Post Job</a></span></div>
+
+</td>
+<td align="right" nowrap>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+
+#navpromo a,
+#navpromo a:visited {
+color: #f60;
+}
+
+
+#u_nav .login_unconfirmed,
+#u_nav .login_unconfirmed a,
+#u_nav .login_unconfirmed a:visited {
+color: #c00
+}
+
+#u_nav .resume_pending,
+#u_nav .resume_pending a,
+#u_nav .resume_pending a:visited {
+color: #c00
+}
+
+#userOptionsLabel {
+position: relative;
+z-index: 5;
+}
+
+#userOptionsLabel b {
+cursor: pointer;
+text-decoration: underline;
+position: relative;
+z-index: 5;
+}
+
+#userOptionsLabel:active {
+outline: none;
+}
+
+#userOptionsLabel.active {
+padding: 9px 11px;
+margin-bottom: -1px;
+_margin-bottom: 0px;
+border: 1px solid #ccc;
+border-top: 0;
+}
+
+#userOptionsLabel.active b {
+color: #666;
+}
+
+#userOptionsLabel.active .arrowStub {
+border-width: 0 3px 3px;
+_border-width: 0px 3px 4px;
+border-color: transparent;
+border-bottom-color: #666;
+top: -2px;
+border-style: dashed dashed solid;
+}
+
+#userOptionsLabel.active .halfPxlFix {
+background: #fff;
+bottom: -3px;
+height: 6px;
+left: 0;
+position: absolute;
+right: 0;
+border: 1px solid #fff;
+}
+
+.arrowStub {
+position: relative;
+border-style: solid dashed dashed;
+border-color: transparent;
+border-top-color: #666;
+display: -moz-inline-box;
+display: inline-block;
+font-size: 0;
+height: 0;
+line-height: 0;
+width: 0;
+left: 4px;
+border-width: 3px 3px 0px;
+padding-top: 1px;
+top: -1px;
+}
+
+#userOptions {
+z-index: 2;
+visibility: hidden;
+position: absolute;
+right: 0;
+x_right: -1px;
+top: 100%;
+padding: 9px 15px;
+border: 1px solid #ccc;
+background: #fff;
+min-width: 150px;
+_width: 150px;
+text-align: left;
+}
+
+#userOptions.open {
+visibility: visible;
+}
+
+.userOptionItem {
+margin: 6px 0;
+}
+
+.userOptionItem a {
+white-space: nowrap;
+}
+
+.userOptionGroup {
+border-top: 1px solid #e8e8e8;
+margin-top: 12px;
+}
+
+.userNameRepeat {
+color: #a8a8a8;
+padding-right: 48px;
+font-weight: bold;
+}
+
+
+</style>
+<div id="u_nav">
+
+ 
+<script type="text/javascript">
+function isUserOptionsOpen() {
+return document.getElementById('userOptions').className == 'open';
+}
+
+function hideUserOptions(label, options) {
+options.className = '';
+label.className = 'navBi';
+}
+
+function toggleUserOptions(e) {
+var options = document.getElementById('userOptions');
+var label = document.getElementById('userOptionsLabel');
+if (isUserOptionsOpen()) {
+hideUserOptions(label, options);
+if (!e.keyCode) {
+label.blur();
+}
+} else {
+options.className = 'open';
+label.className = 'navBi active';
+document.onclick = function() {
+hideUserOptions(label, options);
+document.onclick = function() {
+};
+};
+if (e.keyCode && e.keyCode == 13) {
+var fL = gbid('userOptions').getElementsByTagName('a')[0];
+if (fL) {
+fL.focus();
+}
+}
+else {
+label.blur();
+}
+}
+stopPropagation(e);
+
+}
+
+function stopPropagation(e) {
+var e = e || window.event;
+e.stopPropagation ? e.stopPropagation() : e.cancelBubble = true;
+}
+</script>
+
+
+<div id="user_actions">
+
+
+
+<span class="navBi"><span id="navpromo"><a href="/promo/resume" onclick="window.location=this.href + '?from=nav&subfrom=rezprmstd&trk.origin=jobsearch&trk.variant=rezprmstd&trk.tk=1972kdpet0nk10p0'; return false;">Post your resume</a></span></span>
+
+
+
+
+
+
+
+
+<span class="navBi"><a href="http://www.indeed.com/account/login?dest=%2Fjobs%3Fq%3Dhealth%2Binformatics%26start%3D10" rel="nofollow" id="userOptionsLabel">Sign in</a></span>
+
+
+
+
+
+
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#branding img { border: 0; }
+#jobsearch { margin: 0 }
+.inwrap { border-right: 1px solid #e8e8e8;border-bottom: 1px solid #e8e8e8;display:inline-block; }
+.inwrap input { margin:0; height: 22px; font-family:Arial,sans-serif;border:1px solid #ccc;border-bottom-color:#aaa;border-right-color:#aaa; -webkit-border-radius: 0; -webkit-appearance: none; }
+.inwrap .input_text { font-size:18px;padding:3px 6px;_margin: -1px 0; }
+.inwrap .input_submit {color:#614041;font-size:15px;height:30px;background: #e8e8e8; padding:3px 9px;cursor:pointer;_padding:3px;}
+.inwrap .input_submit:active { background: #ccc; }
+.lnav  {width:100%;line-height:1;;font-size:10pt;}
+.jsf .label {font-size:12px; line-height:1.2;padding-top:0;color:#aaa;font-weight:normal;white-space:nowrap;padding-right:1.5em}
+.jsf .label label {font-weight:normal}
+.jsf .sl { font-size: 11px; color: #77c; white-space: nowrap; }
+.npb { padding-bottom: 0; color: #f60; text-transform: lowercase;font-weight:bold; }
+.npl { padding-left: 0 }
+
+
+
+
+.acd { border: 1px solid #333; background: #fff; position:absolute; width:100%; z-index: 1; }
+.aci { font-size: 18px; padding:1px 6px; cursor:pointer; }
+.acis { background:#36c; color:#fff; }
+
+
+#tjobalerts .ws_label,
+#bjobalerts .ws_label,
+#tjobalerts .member,
+#bjobalerts .member{ z-index: 1; }
+#acr td { padding-top:0; padding-bottom:0; }
+#acr td .h { display:none; }
+
+#what { width: 280px; }
+#where { width: 260px; }
+.inwrapBorder{border:1px solid #1C4ED9;border-top-color:#2F62F1;border-bottom-color:#133FBB;display:inline-block;width:auto;}
+.inwrapBorderTop{border-top:1px solid #69F;display:inline-block;background-color:#3163F2;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3163F2',endColorstr='#2B57D5');background:-webkit-gradient(linear,left top,left bottom,from(#3163F2),to(#2B57D5));background:-moz-linear-gradient(top,#3163F2,#2B57D5);background:linear-gradient(top,#3163F2,#2B57D5);}
+.inwrapBorder .input_submit{background: transparent;border:0;color:#fff;font-family:Arial;font-size:15px;margin:0;padding:4px 9px;cursor:pointer;_padding:3px;}
+.inwrapBorder a.input_submit{text-decoration: none; display: block;}
+
+.inwrapBorder:hover{border-color:#235af6;border-top-color:#4072ff;border-bottom-color:#1e4fd9;}
+.inwrapBorderTop:hover{border-top-color:#7ba7ff;background-color:#4273ff;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4273ff',endColorstr='#3364f1');background:-webkit-gradient(linear,left top,left bottom,from(#4273ff),to(#3364f1));background:-moz-linear-gradient(top,#4273ff,#3364f1);background:linear-gradient(top,#4273ff,#3364f1);}
+
+.inwrapBorder:active{border-color:#536db7;border-top-color:#4b69c1;border-bottom-color:#3753a6;}
+.inwrapBorder:active .inwrapBorderTop{border-top-color:#6c82c1;background-color:#4b69c1;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4b69c1',endColorstr='#3753a6');background:-webkit-gradient(linear,left top,left bottom,from(#4b69c1),to(#3753a6));background:-moz-linear-gradient(top,#4b69c1,#3753a6);background:linear-gradient(top,#4b69c1,#3753a6);}
+
+.roundedCorner {
+    display: inline-block;
+    zoom: 1; /* zoom and *display = ie7 hack for display:inline-block */
+    *display: inline;
+    vertical-align: baseline;
+    margin: 0 2px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: 15px/100% Arial, Helvetica, sans-serif;
+    padding: .5em 2em .55em;
+    text-shadow: 0 1px 1px rgba(0,0,0,.3);
+    -webkit-border-radius: .5em;
+    -moz-border-radius: .5em;
+    border-radius: .5em;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.roundedCorner:hover {
+    text-decoration: none;
+}
+.roundedCorner:active {
+    position: relative;
+    top: 1px;
+}
+
+.bigrounded {
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius: 2em;
+}
+.medium {
+    font-size: 12px;
+    padding: .4em 1.5em .42em;
+}
+.small {
+    font-size: 11px;
+    padding: .2em 1em .275em;
+}
+
+.indeedblue {
+    color: #d9eef7;
+    border: solid 1px #1C4ED9;
+    background: #3163F2;
+    background: -webkit-gradient(linear, left top, left bottom, from(#2F62F1), to(#133FBB));
+    background: -moz-linear-gradient(top,  #2F62F1,  #133FBB);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#2F62F1', endColorstr='#133FBB');
+}
+.indeedblue:hover {
+    background: #235af6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4072ff), to(#1e4fd9));
+    background: -moz-linear-gradient(top,  #4072ff,  #1e4fd9);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#4072ff', endColorstr='#1e4fd9');
+}
+.indeedblue:active {
+    color: #d9eef7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4b69c1), to(#3753a6));
+    background: -moz-linear-gradient(top,  #4b69c1,  #3753a6);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#4b69c1', endColorstr='#3753a6');
+}
+</style>
+<table cellpadding=0 cellspacing=0 border=0><tr><td width=1125>
+<table class=lnav cellpadding=0 cellspacing=0>
+<tr>
+<td id="branding-td" style="padding: 5px 0 5px 5px;width:175px;vertical-align:top;"><a id=branding href="/" onmousedown="ptk('logo');"><img src="/images/indeed.png" alt="one search. all jobs. Indeed" width="175" height="72" style="margin-bottom:6px"></a></td>
+<td valign=top style="padding:3px 0 0 5px;">
+
+<form class="jsf" name=js id=jobsearch action="/jobs" method=get onsubmit="formptk('topsearch','where_ac','',['where_ac','what_ac'], ptk);
+formptk('topsearch','what_ac','w',['where_ac','what_ac'], ptk);">
+<table cellpadding=3 cellspacing=0 align=left>
+<tr>
+<td class=npb><label for="what">What:</label></td>
+<td class=npb colspan=3><label for="where">Where:</label></td>
+</tr>
+
+
+
+<tr>
+<td class="npl epr"><span class=inwrap><input name=q class=input_text size=31 maxlength=512 value="health informatics" id=what></span><div style="width:250px"><!-- --></div></td>
+<td class="npl epr"><span class=inwrap><input name=l class=input_text size=27 maxlength=45 value="" id=where></span><div style="width:200px"><!-- --></div></td>
+<td class=npl style="width:1px"><span class="inwrapBorder" style="width:auto;padding-right:0;"><span class="inwrapBorderTop"><input id=fj class=input_submit type=submit value="Find Jobs"></span></span></td>
+<td class=npl style="width:240px;"><div style="margin-left:12px"><a class=sl href="/advanced_search?q=health+informatics">Advanced Job Search</a></div></td>
+</tr>
+
+<tr id=acr>
+<td><span class=h>&nbsp;</span></td>
+<td colspan=2 class=npl><div style="position:relative;z-index:2"><div id=acdiv class=acd style="display:none;"></div></div></td>
+<td><span class=h>&nbsp;</span></td>
+</tr>
+
+
+<tr id=acr>
+<td colspan=3 class=npl><div style="position:relative;z-index:2"><div id=what_acdiv class=acd style="display:none;"></div></div></td>
+<td><span class=h>&nbsp;</span></td>
+</tr>
+
+
+
+<tr valign=baseline>
+<td class=label>
+
+<label for="what">job title, keywords or company</label>
+
+</td>
+<td colspan=3 class=label>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p id="ltip" class="headerTipBubble ltip">
+
+
+
+Tip: Enter your city or zip code in the "where" box to show results in your area.
+
+
+</p>
+</td>
+</tr>
+
+</table>
+
+
+
+</form>
+</td>
+</tr>
+</table>
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    
+    
+        
+        initAutocomplete('where_ac', gbid('where'), gbid('acdiv'), '/rpc/suggest?from=serp&tk=1972kdpet0nk10p0', function() { formptk('topsearch','where_ac', '', ['where_ac','what_ac'], ptk); });
+        
+        
+        initAutocomplete('what_ac', gbid('what'), gbid('what_acdiv'), '/rpc/suggest?what=true&tk=1972kdpet0nk10p0', function () {formptk('topsearch', 'what_ac', 'w', ['where_ac','what_ac'], ptk);});
+        
+    
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+function rclk(el,jobdata,oc,sal) { var ocstr = oc ? '&onclick=1' : ''; document.cookie='RCLK="jk='+jobdata.jk+'&tk=1972kdpet0nk10p0&rd='+jobdata.rd+'&qd=7tdTJLF8oc4dPpT7T_zGvF9IG6UsYird_XWT57P-d75TfkpWN7ZON6ZBwIlTdmPyF1ip4ETpc1tQe_x8a3Et39v_HRs-EqB9KIcZTq8WfR0dYj6-mXGkXrWXgnVxB4zM&ts=1416353998301&sal='+sal+ocstr+'"; path=/'; return true;}
+function zrprclk(el,jobdata,oc) { var ocstr = oc ? '&onclick=1' : ''; document.cookie='RCLK="jk='+jobdata.jk+'&tk=1972kdpet0nk10p0&from=reconzrp&rd='+jobdata.rd+'&qd=7tdTJLF8oc4dPpT7T_zGvF9IG6UsYird_XWT57P-d75TfkpWN7ZON6ZBwIlTdmPyF1ip4ETpc1tQe_x8a3Et39v_HRs-EqB9KIcZTq8WfR0dYj6-mXGkXrWXgnVxB4zM&ts=1416353998301'+ocstr+'"; path=/'; return true;}
+function prjbottomclk(el,jobdata,oc) { var ocstr = oc ? '&onclick=1' : ''; document.cookie='RCLK="jk='+jobdata.jk+'&tk=1972kdpet0nk10p0&from=reconserp&rd='+jobdata.rd+'&qd=7tdTJLF8oc4dPpT7T_zGvF9IG6UsYird_XWT57P-d75TfkpWN7ZON6ZBwIlTdmPyF1ip4ETpc1tQe_x8a3Et39v_HRs-EqB9KIcZTq8WfR0dYj6-mXGkXrWXgnVxB4zM&ts=1416353998301'+ocstr+'"; path=/'; return true;}
+
+
+
+
+
+
+
+
+var jobmap = {};
+
+
+
+jobmap[0]= {jk:'6a544d0cca54f900',efccid: '5b771f12fada0ba8',srcid:'c180c0c5b16087f0',cmpid:'f54837e1fe3c9a9b',num:'0',srcname:'Banner Health',cmp:'Banner Health',cmpesc:'Banner Health',cmplnk:'/q-Banner-Health-jobs.html',loc:'Phoenix, AZ',country:'US',zip:'',city:'Phoenix',title:'Informatics Analyst',locid:'b4ff2ac66b411fd8',rd:'5M18gwTLvON8ppNPbC02KBn3CLYlxUfiwJctXe1AQeo'};
+
+
+
+
+jobmap[1]= {jk:'3b38b7c4f798dfea',efccid: '23399d08f0b9d11d',srcid:'4e6821d57beb9217',cmpid:'3d01f40f506c2ff9',num:'1',srcname:'Sidney Health Center',cmp:'Sidney Health Center',cmpesc:'Sidney Health Center',cmplnk:'/q-Sidney-Health-Center-jobs.html',loc:'Sidney, MT',country:'US',zip:'',city:'Sidney',title:'Clinical Informatics Analyst',locid:'dee69e5401142dfc',rd:'mL18ruomo9yCQUxnK4V94HA1gcTxn6TTNySjncx2kY0'};
+
+
+
+
+jobmap[2]= {jk:'a14d6901ab1c19e3',efccid: '12242e59ff640881',srcid:'850e257f755e99d8',cmpid:'7d7b563c6a3a9653',num:'2',srcname:'NYC Careers',cmp:'City of New York',cmpesc:'City of New York',cmplnk:'/q-City-of-New-York-jobs.html',loc:'Queens, NY',country:'US',zip:'',city:'Queens',title:'Health Informatics Specialist, Disease Control Administration',locid:'a036f550dfd81ea4',rd:'kFIN5IZRWtPI0qV62tohwSQ7FE_rtmlFvhTvIJyoBio'};
+
+
+
+
+jobmap[3]= {jk:'4197bf1d09153a70',efccid: 'a416c7945e6cd0e9',srcid:'06df3295511251b5',cmpid:'183b436b0b08a363',num:'3',srcname:'Value Options',cmp:'Value Options',cmpesc:'Value Options',cmplnk:'/q-Value-Options-jobs.html',loc:'Rocky Hill, CT',country:'US',zip:'',city:'Rocky Hill',title:'DATA ANALYST II',locid:'8b7664ba6e1fa966',rd:'Kp-MAZit5aalQnxaI0pC_wLcxYk8cpUJ5m6jwt5axGU'};
+
+
+
+
+jobmap[4]= {jk:'bfef7222aaef096f',efccid: 'e6c7810df601f446',srcid:'c1bc855dd9b94b00',cmpid:'e1736b15e2655b2b',num:'4',srcname:'The Regional Medical Center',cmp:'The Regional Medical Center',cmpesc:'The Regional Medical Center',cmplnk:'/q-The-Regional-Medical-Center-jobs.html',loc:'Orangeburg, SC',country:'US',zip:'',city:'Orangeburg',title:'Clinical Informatics Analyst',locid:'115234784db0eb28',rd:'TWTtIH6shSRVtnI11wZIII_CLx_WSqdcUc_bwxc36Vs'};
+
+
+
+
+jobmap[5]= {jk:'6ce1027f8fa52b04',efccid: '8730d7a49b82d7e5',srcid:'b2b04decb99bdd63',cmpid:'afbf8c270610a38a',num:'5',srcname:'CIGNA',cmp:'CIGNA',cmpesc:'CIGNA',cmplnk:'/q-CIGNA-jobs.html',loc:'Chattanooga, TN',country:'US',zip:'',city:'Chattanooga',title:'Informatics Specialist',locid:'a69784bf26ee8e6d',rd:'KfUOwS2A_cmMjoXA31VPMxwIO-DvbKKqEkTQLpvDuOU'};
+
+
+
+
+jobmap[6]= {jk:'007d01b39bda6ab0',efccid: 'c825b72e74f50c1d',srcid:'07d2345aafc2bd0e',cmpid:'efe5ec874cf5d421',num:'6',srcname:'MJHS',cmp:'MJHS',cmpesc:'MJHS',cmplnk:'/q-MJHS-jobs.html',loc:'Brooklyn, NY',country:'US',zip:'',city:'Brooklyn',title:'Managed Care Revenue Analyst',locid:'e69692d64317994a',rd:'x3DeHahOC9NPexzi7vmfsNCBBRf43QC9n8Ae12PAbc8'};
+
+
+
+
+jobmap[7]= {jk:'620bef45c7bc89ca',efccid: '952894ae07f6d12c',srcid:'23971ab43a279e81',cmpid:'ef5000d39d89741c',num:'7',srcname:'Indeed',cmp:'Mercy Health',cmpesc:'Mercy Health',cmplnk:'/q-Mercy-Health-jobs.html',loc:'Springfield, OH',country:'US',zip:'',city:'Springfield',title:'Health Data Analyst',locid:'d0a76b29e8dd909e',rd:'GiGv0cmeDqW0cIMdWYv03hpvNKGD0kAG5_9PKI4CY1E'};
+
+
+
+
+jobmap[8]= {jk:'9f8471c1ce36031a',efccid: '293fe91a396b31b6',srcid:'bdf9d36b282789e2',cmpid:'2c24201a2b2572d6',num:'8',srcname:'Keck Medical Center of USC',cmp:'Keck Medical Center of USC',cmpesc:'Keck Medical Center of USC',cmplnk:'/q-Keck-Medical-Center-of-USC-jobs.html',loc:'Los Angeles, CA',country:'US',zip:'',city:'Los Angeles',title:'Director of Clinical Applications Full Time Exempt 8 Hours Hours Vary',locid:'d05a4fe50c5af0a8',rd:'9vU0lm-ggkAaequ1ArFOgyQ7FE_rtmlFvhTvIJyoBio'};
+
+
+
+
+jobmap[9]= {jk:'eb2e577d0114a815',efccid: '4449d22026e1b790',srcid:'2e37dd11f2f1a64a',cmpid:'eb24c57e72a85c13',num:'9',srcname:'Department of Veterans Affairs',cmp:'Department of Veterans Affairs',cmpesc:'Department of Veterans Affairs',cmplnk:'/q-Department-of-Veterans-Affairs-jobs.html',loc:'Las Vegas, NV',country:'US',zip:'',city:'Las Vegas',title:'Program Analyst (Informatics)',locid:'9da33cd12dfbdd19',rd:'29AoITKIoul3jChsFRf8q8HSB5Qmf6-_R8OVtcCWLko'};
+
+
+
+
+
+
+
+
+
+
+// -->
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0"><tr><td width="1125">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+window['ree'] = "pdsssps";
+window['jas'] = "R11q6vdtH";
+</script>
+
+
+
+
+<table cellspacing=0 cellpadding=0 width="100%" border=0 id="pageContent">
+<tr valign=top>
+
+
+
+<td id=refineresultscol>
+
+
+
+
+
+<script type="text/javascript">setOpenSectionsCookie( ':rb_Salary Estimate:recentsearches:refineresults' );</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id=refineresults>
+
+
+
+<h1><font size="+1">health informatics jobs</font></h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+    
+
+
+<div style="margin-left: 6px; margin-bottom: 1em;">Sort&nbsp;by: <nobr><b>relevance</b> -
+            
+                
+                
+                    <a href="/jobs?q=health+informatics&amp;sort=date" rel=nofollow>date</a></nobr></div>
+
+
+<script type="text/javascript">
+function handleRefine(isEvaluated, type, cookieValue) {
+if (!isEvaluated) {
+getRefineByOptions(type);
+}
+toggleRefineBy(cookieValue);
+return false;
+}
+</script>
+
+
+
+
+
+
+
+
+
+<div id="rb_Salary Estimate" class="rbSection rbOpen">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(true, 'SALARY', 'rb_Salary Estimate')" onkeyup="if (event.keyCode == 13) {handleRefine(true, 'SALARY', 'rb_Salary Estimate')}">
+<span class="ico"></span>
+Salary Estimate
+</span>
+</div>
+<div id="SALARY_rbo" class="rbsrbo">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class=rbList>
+
+
+
+<li onmousedown="rbptk('rb', 'salest', '1');">
+
+
+<a rel=nofollow href="/q-health-informatics-$60,000-jobs.html" title="$60,000+ (2729)">$60,000+</a> (2729)
+
+</li>
+
+
+<li onmousedown="rbptk('rb', 'salest', '2');">
+
+
+<a rel=nofollow href="/q-health-informatics-$80,000-jobs.html" title="$80,000+ (1957)">$80,000+</a> (1957)
+
+</li>
+
+
+<li onmousedown="rbptk('rb', 'salest', '3');">
+
+
+<a rel=nofollow href="/q-health-informatics-$100,000-jobs.html" title="$100,000+ (814)">$100,000+</a> (814)
+
+</li>
+
+
+<li onmousedown="rbptk('rb', 'salest', '4');">
+
+
+<a rel=nofollow href="/q-health-informatics-$120,000-jobs.html" title="$120,000+ (340)">$120,000+</a> (340)
+
+</li>
+
+
+<li onmousedown="rbptk('rb', 'salest', '5');">
+
+
+<a rel=nofollow href="/q-health-informatics-$140,000-jobs.html" title="$140,000+ (298)">$140,000+</a> (298)
+
+</li>
+
+
+</ul>
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div id="rb_Title" class="rbSection ">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(false, 'TITLE', 'rb_Title')" onkeyup="if (event.keyCode == 13) {handleRefine(false, 'TITLE', 'rb_Title')}">
+<span class="ico"></span>
+Title
+</span>
+</div>
+<div id="TITLE_rbo" class="rbsrbo">
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div id="rb_Company" class="rbSection ">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(false, 'COMPANY', 'rb_Company')" onkeyup="if (event.keyCode == 13) {handleRefine(false, 'COMPANY', 'rb_Company')}">
+<span class="ico"></span>
+Company
+</span>
+</div>
+<div id="COMPANY_rbo" class="rbsrbo">
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div id="rb_Location" class="rbSection ">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(false, 'LOCATION', 'rb_Location')" onkeyup="if (event.keyCode == 13) {handleRefine(false, 'LOCATION', 'rb_Location')}">
+<span class="ico"></span>
+Location
+</span>
+</div>
+<div id="LOCATION_rbo" class="rbsrbo">
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div id="rb_Job Type" class="rbSection ">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(false, 'JOB_TYPE', 'rb_Job Type')" onkeyup="if (event.keyCode == 13) {handleRefine(false, 'JOB_TYPE', 'rb_Job Type')}">
+<span class="ico"></span>
+Job Type
+</span>
+</div>
+<div id="JOB_TYPE_rbo" class="rbsrbo">
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+<div id="rb_Employer/Recruiter" class="rbSection ">
+<div class=rbHeader>
+<span tabindex="0" class="ws_label" onclick="handleRefine(false, 'SOURCE_TYPE', 'rb_Employer/Recruiter')" onkeyup="if (event.keyCode == 13) {handleRefine(false, 'SOURCE_TYPE', 'rb_Employer/Recruiter')}">
+<span class="ico"></span>
+Employer/Recruiter
+</span>
+</div>
+<div id="SOURCE_TYPE_rbo" class="rbsrbo">
+
+
+
+
+
+
+</div>
+</div>
+
+
+
+
+</div>
+
+
+</td>
+
+
+
+<td id="resultsCol">
+
+
+
+
+<div class="messageContainer">
+
+
+
+
+
+
+
+<style type="text/css">
+.csearch_query {
+display:inline;
+font-style: italic;
+}
+</style>
+
+
+
+
+<script type="text/javascript">
+function setJaPromoCookie() {
+var expires = new Date();
+expires.setTime(expires.getTime() + (5 * 365 * 24 * 60 * 60 * 1000));
+setCookie("showJaPromo", "1", expires);
+}
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+<style type="text/css">
+#increased_radius_result {
+font-size: 16px;
+font-style: italic;
+}
+#original_radius_result{
+font-size: 13px;
+font-style: italic;
+color: #666666;
+}
+</style>
+
+
+
+
+<div style="padding-top:9px;">
+
+
+
+
+
+
+
+
+
+<div id="searchCount">Jobs 11 to 20 of 3,336</div>
+<div id="resumePromo"><a href="/promo/resume" onmousedown="this.href = appendParamsOnce( this.href, '?from=serptop&subfrom=resprmrtop&trk.origin=jobsearch&trk.variant=resprmrtop&trk.tk=1972kdpet0nk10p0')"><span class="ico"></span></a> <a href="/promo/resume" onmousedown="this.href = appendParamsOnce( this.href, '?from=serptop&subfrom=resprmrtop&trk.origin=jobsearch&trk.variant=resprmrtop&trk.tk=1972kdpet0nk10p0')"><b>Upload your resume</b></a> - Let employers find you
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+window['sjl'] = "PKLatUDbP";
+</script>
+<style type="text/css">
+.PKLatUDbP { margin: 0 0 6px 0; padding: 0; _zoom:100%; border: 0; background-color: #fff; }
+.PKLatUDbP .jobtitle { white-space: nowrap; float:@LINE_START@; _float: none; }
+.PKLatUDbP .sdn { color: #CD29C0; }
+.gvUkVGLE5 .brdr { margin-top: 12px; }
+.dPexVhV6H5 .brdr { margin-bottom: 12px; }
+@media only screen and (min-height:780px) {
+.gvUkVGLE5 { margin-bottom: 9px; }
+.dPexVhV6H5 .brdr,
+.gvUkVGLE5 .brdr { margin-bottom: 9px; margin-top: 9px; }
+}
+</style>
+<div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="PKLatUDbP gvUkVGLE5">
+
+
+<div class="row  result" data-jk="ef93eec6866192a1">
+
+
+
+
+
+
+
+<a target="_blank" id="sja1" class=jobtitle href="/pagead/clk?mo=r&ad=-6NYlbfkN0AJlwzbG0YclJxFGJ7UZo0tIHRvL8HE8wVlX0bOEUa2kS5C4wh6WCEhgseMU7EnOqiar80Kkuu4XrbPGSmYAZes-C_jeqsKBWIwzmvVBpYHfXn4UTaUKYmx3iu6IuUKr4mBGjATNgA3t96p-joA8LhfCbkv8EiIh6xG9E_YX-HcE9EFkf3UDSnvgGBreYYZkn9M8PrY4oxumb3o4WdsTTLuuKbvsM8Nt34T8iovghsetZodCgWj1nofYmBnrSPzjIP2HPNuJdSSoGgBCQMAdECZrbkR8Pxgxv-g0ofOlsAoeX7yyFfk0s-e31kMdoqjImO23QP2jaSxijUIZrHWpONyRQTcct-aCeiAwJM-smbMKG2ajI5dVN2KnEDCdYzEi71a49tHEmlDr5iVSn1rtwclZnvbe53kPVl8gvqJcSiItFn3f29iCU_1McToHMoXQ4y_LR7R9poh2GVyqERNfDVcpQy0WxP_Co90zQEnIgSibWWQBkJyYRVGH88gDQHjkc5g1Y196jtdPQ-NCCfED6ho0iqC8dnqpnkSWWY2yBWX3jfmkMbb8RIeIVf_o5FWv6B7k0XauJNOwJBWIG2U7Y9rh_GYr0G2bd4=&p=1&sk=e1afc4074a98a99e" title="Healthcare Informatics Specialist" rel="nofollow" onmousedown="sjomd('sja1'); clk('sja1');" onclick="sjoc('sja1',0); convCtr('SJ', pingUrlsForGA)">Healthcare <b>Informatics</b> Specialist</a>
+
+
+
+
+
+
+<br>
+<div class="sjcl">
+
+<span class=company>St.Joseph <b>Health</b> System</span>
+
+
+
+
+
+
+
+- <span class=location>Bryan, TX</span>
+
+
+</div>
+<table cellpadding=0 cellspacing=0 border=0><tr><td class=snip>
+<span class=summary><b>Informatics</b>, Clinical or related Experience Required:. Maintain up-to-date knowledge of key business and clinical practices, clinical <b>informatics</b> best practices...</span>
+</td></tr></table>
+
+
+
+
+<span class=sdn>Sponsored by <b>St.Joseph Health System</b></span>&nbsp;-&nbsp;<span class=date>30+ days ago</span>
+
+
+</div>
+
+<div class="row sjlast result" data-jk="bc2aad3f084d6a25">
+
+
+
+
+
+
+
+<a target="_blank" id="sja2" class=jobtitle href="/pagead/clk?mo=r&ad=-6NYlbfkN0Alm752t446Caf0WSncJMh454IJmuOtnsQ9tiyx3Ta3jXxR5bx1_1dfO3sm6JNyirSty0QP9tMDipAcpr9poKJbJxzQCsXSViNeEgrTbE5ztaQFSI_U0xGYLIzdFnxkmBlZkVcveusMb7_wwJthMxkIlx6yW6T12W2qb2q43W9acQ9iVVgrC3QVApGQJ-DnrZM0DJ9-mgRHeuG7WPIpso9TWONF7J05aE0UU1NEa25pV2_q4kPpquk8-DXNpi85X3umK0K3LXvOlxfrCMQfUhuQpUcy3M6UXNH12JJcFnXT9xZuY9btj4l84ySmXzx-5_fSZHgk_g_Cg-PN8iJMDrfHeqpI4-qnpHJL5eQNxhSOislAoYds0CWes63dA7SL5mcr5CdgnuzHuIByvChzpwHwIcrjemfnRaUlpuaNB6JIgJAnNFx-aVR1Us4cxGA3fSopKP60HXuzJ0JOcJQVu_NlL9FmyqF7ClVVtwq_M87_GvAqwtZXSwP11uTo4fZOc9qbPW8ldXLtabXZpGS6EyxNYN56nVwiCkbjMoIxwWhA1Q==&p=2&sk=e1afc4074a98a99e" title="Healthcare Data Analyst" rel="nofollow" onmousedown="sjomd('sja2'); clk('sja2');" onclick="sjoc('sja2',0); convCtr('SJ', pingUrlsForGA)">Healthcare Data Analyst</a>
+
+
+
+
+
+
+<br>
+<div class="sjcl">
+
+<span class=company>WEA Trust</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Wea-Trust/reviews" title="Wea Trust reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Healthcare+Data+Analyst');"><span class="ratings"><span class="rating" style="width:44.0px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Wea-Trust/reviews" title="Wea Trust reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Healthcare+Data+Analyst');"/ >6 reviews</a>
+
+
+
+
+
+
+
+- <span class=location>Madison, WI</span>
+
+
+</div>
+<table cellpadding=0 cellspacing=0 border=0><tr><td class=snip>
+<span class=summary>Minimum of five years of experience working in <b>health</b> insurance or <b>health</b> care. Degree in nursing, <b>health</b> care, <b>informatics</b>, or information systems or related...</span>
+</td></tr></table>
+
+
+
+
+<span class=sdn>Sponsored by <b>WEA Trust</b></span>&nbsp;-&nbsp;<span class=date>3 days ago</span>
+
+
+</div>
+
+<div class="brdr"><!-- --></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_6a544d0cca54f900" data-jk="6a544d0cca54f900" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_6a544d0cca54f900 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=6a544d0cca54f900" target="_blank"
+onmousedown="return rclk(this,jobmap[0],0);"
+onclick="return rclk(this,jobmap[0],true,0);"
+itemprop="title"
+title="Informatics Analyst"><b>Informatics</b> Analyst</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Banner <b>Health</b></span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Banner-Health/reviews" title="Banner Health reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Informatics+Analyst');"><span class="ratings"><span class="rating" style="width:42.59146213531494px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Banner-Health/reviews" title="Banner Health reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Informatics+Analyst');"/ >328 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Phoenix, AZ</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+About Banner <b>Health</b>. About Banner <b>Health</b> (Corporate). This <b>Informatics</b> Analyst position will be joining the Ambulatory Clinical <b>Informatics</b> support team which...
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>19 hours ago</span>
+<span id="tt_set_0"
+class=tt_set>
+
+
+- <span id="savelink2_6a544d0cca54f900">
+
+
+
+
+<a id="sj_6a544d0cca54f900" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[0]); toggleResultTab(this, 'anon_save_job0', 0);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_6a544d0cca54f900"></span>
+
+
+
+
+<div id="editsaved2_6a544d0cca54f900" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=6a544d0cca54f900"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 0,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '6a544d0cca54f900',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=6a544d0cca54f900',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_0', 0);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_0" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=0&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_0', 0);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_0" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job0" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job0" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_0" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_0" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Banner-Health-l-Phoenix,-AZ-jobs.html" rel="nofollow">Banner Health jobs in Phoenix, AZ</a> - <a href="/l-Phoenix,-AZ-jobs.html">Phoenix jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Informatic+Analyst&l1=Phoenix%2C+AZ">Informatic Analyst salaries in Phoenix, AZ</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Banner-Health">Banner Health</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Phoenix-Arizona.html">Phoenix, Arizona</a>
+ - 
+
+<a href="/forum/cmp/Banner-Health.html">Banner Health</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_0"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_3b38b7c4f798dfea" data-jk="3b38b7c4f798dfea" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_3b38b7c4f798dfea class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=3b38b7c4f798dfea" target="_blank"
+onmousedown="return rclk(this,jobmap[1],0);"
+onclick="return rclk(this,jobmap[1],true,0);"
+itemprop="title"
+title="Clinical Informatics Analyst">Clinical <b>Informatics</b> Analyst</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Sidney <b>Health</b> Center</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Sidney-Health-Center/reviews" title="Sidney Health Center reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Analyst');"><span class="ratings"><span class="rating" style="width:33.0px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Sidney-Health-Center/reviews" title="Sidney Health Center reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Analyst');"/ >2 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Sidney, MT</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Sidney <b>Health</b> Center is an EEO employer committed to a drug and tobacco-free workplace. The role will facilitate, build, problem solve and teach staff regarding...
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>4 days ago</span>
+<span id="tt_set_1"
+class=tt_set>
+
+
+- <span id="savelink2_3b38b7c4f798dfea">
+
+
+
+
+<a id="sj_3b38b7c4f798dfea" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[1]); toggleResultTab(this, 'anon_save_job1', 1);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_3b38b7c4f798dfea"></span>
+
+
+
+
+<div id="editsaved2_3b38b7c4f798dfea" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=3b38b7c4f798dfea"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 1,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '3b38b7c4f798dfea',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=3b38b7c4f798dfea',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_1', 1);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_1" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=1&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_1', 1);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_1" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job1" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job1" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_1" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_1" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Sidney-Health-Center-l-Sidney,-MT-jobs.html" rel="nofollow">Sidney Health Center jobs in Sidney, MT</a> - <a href="/l-Sidney,-MT-jobs.html">Sidney jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Clinical+Informatic+Analyst&l1=Sidney%2C+MT">Clinical Informatic Analyst salaries in Sidney, MT</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Sidney-Health-Center">Sidney Health Center</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Sidney-Montana.html">Sidney, Montana</a>
+ - 
+
+<a href="/forum/cmp/Sidney-Health-Center.html">Sidney Health Center</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_1"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_a14d6901ab1c19e3" data-jk="a14d6901ab1c19e3" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_a14d6901ab1c19e3 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=a14d6901ab1c19e3" target="_blank"
+onmousedown="return rclk(this,jobmap[2],1);"
+onclick="return rclk(this,jobmap[2],true,1);"
+itemprop="title"
+title="Health Informatics Specialist, Disease Control Administration"><b>Health</b> <b>Informatics</b> Specialist, Disease Control Administratio...</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">City of New York</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/New-York-City/reviews" title="City of New York reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Health+Informatics+Specialist%2C+Disease+Control+Administration');"><span class="ratings"><span class="rating" style="width:47.300002098083496px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/New-York-City/reviews" title="City of New York reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Health+Informatics+Specialist%2C+Disease+Control+Administration');"/ >50 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Queens, NY</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+<nobr>$74,478 a year</nobr>
+
+
+
+<div>
+<span class=summary itemprop="description">
+Public <b>Health</b> program experience; -Represent the Division at meetings related to <b>informatics</b> within DOHMH. For Assignment Level I (only physical, biological and...
+</span>
+</div>
+
+
+
+
+
+
+<span class=sdn>NYC Careers</span>&nbsp;-&nbsp;<span
+class=date>3 days ago</span>
+<span id="tt_set_2"
+class=tt_set>
+
+
+- <span id="savelink2_a14d6901ab1c19e3">
+
+
+
+
+<a id="sj_a14d6901ab1c19e3" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[2]); toggleResultTab(this, 'anon_save_job2', 2);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_a14d6901ab1c19e3"></span>
+
+
+
+
+<div id="editsaved2_a14d6901ab1c19e3" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=a14d6901ab1c19e3"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 2,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': 'a14d6901ab1c19e3',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=a14d6901ab1c19e3',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_2', 2);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_2" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=2&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_2', 2);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_2" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job2" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job2" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_2" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_2" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/jobs?q=City+of+New+York&l=Queens,+NY&nc=jasx" rel="nofollow">City of New York jobs in Queens, NY</a> - <a href="/l-Queens,-NY-jobs.html">Queens jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Health+Informatic+Specialist&l1=Queens%2C+NY">Health Informatic Specialist salaries in Queens, NY</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/New-York-City">City of New York</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Queens-New-York.html">Queens, New York</a>
+ - 
+
+<a href="/forum/cmp/New-York-City.html">New York City</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_2"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_4197bf1d09153a70" data-jk="4197bf1d09153a70" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_4197bf1d09153a70 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=4197bf1d09153a70" target="_blank"
+onmousedown="return rclk(this,jobmap[3],0);"
+onclick="return rclk(this,jobmap[3],true,0);"
+itemprop="title"
+title="DATA ANALYST II">DATA ANALYST II</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Value Options</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Value-Options/reviews" title="Value Options reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=DATA+ANALYST+II');"><span class="ratings"><span class="rating" style="width:34.83333420753479px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Value-Options/reviews" title="Value Options reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=DATA+ANALYST+II');"/ >78 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Rocky Hill, CT</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Candidates with degrees in Behavioral <b>Health</b>, Public <b>Health</b>, Economics, Business Intelligence, and Statistics encouraged to apply....
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>3 days ago</span>
+<span id="tt_set_3"
+class=tt_set>
+
+
+- <span id="savelink2_4197bf1d09153a70">
+
+
+
+
+<a id="sj_4197bf1d09153a70" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[3]); toggleResultTab(this, 'anon_save_job3', 3);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_4197bf1d09153a70"></span>
+
+
+
+
+<div id="editsaved2_4197bf1d09153a70" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=4197bf1d09153a70"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 3,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '4197bf1d09153a70',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=4197bf1d09153a70',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_3', 3);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_3" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=3&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_3', 3);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_3" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job3" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job3" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_3" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_3" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Value-Options-l-Rocky-Hill,-CT-jobs.html" rel="nofollow">Value Options jobs in Rocky Hill, CT</a> - <a href="/l-Rocky-Hill,-CT-jobs.html">Rocky Hill jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Data+Analyst&l1=Rocky+Hill%2C+CT">Data Analyst salaries in Rocky Hill, CT</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Value-Options">Value Options</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/job/Data-Analyst.html">Data Analyst</a>
+ - 
+
+<a href="/forum/loc/Rocky-Hill-Connecticut.html">Rocky Hill, Connecticut</a>
+ - 
+
+<a href="/forum/cmp/Value-Options.html">Value Options</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_3"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_bfef7222aaef096f" data-jk="bfef7222aaef096f" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_bfef7222aaef096f class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=bfef7222aaef096f" target="_blank"
+onmousedown="return rclk(this,jobmap[4],0);"
+onclick="return rclk(this,jobmap[4],true,0);"
+itemprop="title"
+title="Clinical Informatics Analyst">Clinical <b>Informatics</b> Analyst</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">The Regional Medical Center</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/The-Regional-Medical-Center/reviews" title="The Regional Medical Center reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Analyst');"><span class="ratings"><span class="rating" style="width:40.07142782211304px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/The-Regional-Medical-Center/reviews" title="The Regional Medical Center reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Analyst');"/ >42 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Orangeburg, SC</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Collaborate with <b>Health</b> Care Providers to identify information needs and develop information technology solutions....
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>3 days ago</span>
+<span id="tt_set_4"
+class=tt_set>
+
+
+- <span id="savelink2_bfef7222aaef096f">
+
+
+
+
+<a id="sj_bfef7222aaef096f" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[4]); toggleResultTab(this, 'anon_save_job4', 4);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_bfef7222aaef096f"></span>
+
+
+
+
+<div id="editsaved2_bfef7222aaef096f" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=bfef7222aaef096f"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 4,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': 'bfef7222aaef096f',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=bfef7222aaef096f',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_4', 4);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_4" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=4&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_4', 4);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_4" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job4" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job4" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_4" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_4" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/jobs?q=The+Regional+Medical+Center&l=Orangeburg,+SC&nc=jasx" rel="nofollow">The Regional Medical Center jobs in Orangeburg, SC</a> - <a href="/l-Orangeburg,-SC-jobs.html">Orangeburg jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Clinical+Informatic+Analyst&l1=Orangeburg%2C+SC">Clinical Informatic Analyst salaries in Orangeburg, SC</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/The-Regional-Medical-Center">The Regional Medical Center</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Orangeburg-South-Carolina.html">Orangeburg, South Carolina</a>
+ - 
+
+<a href="/forum/cmp/The-Regional-Medical-Center.html">The Regional Medical Center</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_4"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_6ce1027f8fa52b04" data-jk="6ce1027f8fa52b04" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_6ce1027f8fa52b04 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=6ce1027f8fa52b04" target="_blank"
+onmousedown="return rclk(this,jobmap[5],0);"
+onclick="return rclk(this,jobmap[5],true,0);"
+itemprop="title"
+title="Informatics Specialist"><b>Informatics</b> Specialist</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">CIGNA</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Cigna/reviews" title="Cigna reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Informatics+Specialist');"><span class="ratings"><span class="rating" style="width:41.63758420944214px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Cigna/reviews" title="Cigna reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Informatics+Specialist');"/ >745 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Chattanooga, TN</span></span></span>
+ - <a rel="nofollow" class=more_loc
+onmousedown="ptk('addlloc');"
+href="/jobs?q=health+informatics&rbt=Informatics+Specialist&rbc=CIGNA&jtid=094e1ac4eb869d74&jcid=afbf8c270610a38a&grp=tcl">+1 location</a>
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+3 - 7 years of experience, preferably focused in <b>health</b> insurance and/or <b>health</b> improvement. <b>Health</b> Risk Assessment and Wellness Reporting....
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>7 days ago</span>
+<span id="tt_set_5"
+class=tt_set>
+
+
+- <span id="savelink2_6ce1027f8fa52b04">
+
+
+
+
+<a id="sj_6ce1027f8fa52b04" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[5]); toggleResultTab(this, 'anon_save_job5', 5);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_6ce1027f8fa52b04"></span>
+
+
+
+
+<div id="editsaved2_6ce1027f8fa52b04" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=6ce1027f8fa52b04"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 5,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '6ce1027f8fa52b04',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=6ce1027f8fa52b04',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_5', 5);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_5" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=5&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_5', 5);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_5" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job5" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job5" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_5" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_5" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Cigna-l-Chattanooga,-TN-jobs.html" rel="nofollow">CIGNA jobs in Chattanooga, TN</a> - <a href="/l-Chattanooga,-TN-jobs.html">Chattanooga jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Informatic+Specialist&l1=Chattanooga%2C+TN">Informatic Specialist salaries in Chattanooga, TN</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Cigna">CIGNA</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Chattanooga-Tennessee.html">Chattanooga, Tennessee</a>
+ - 
+
+<a href="/forum/cmp/Cigna.html">CIGNA</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_5"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_007d01b39bda6ab0" data-jk="007d01b39bda6ab0" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_007d01b39bda6ab0 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=007d01b39bda6ab0" target="_blank"
+onmousedown="return rclk(this,jobmap[6],0);"
+onclick="return rclk(this,jobmap[6],true,0);"
+itemprop="title"
+title="Managed Care Revenue Analyst">Managed Care Revenue Analyst</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">MJHS</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Mjhs/reviews" title="Mjhs reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Managed+Care+Revenue+Analyst');"><span class="ratings"><span class="rating" style="width:43.08333420753479px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Mjhs/reviews" title="Mjhs reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Managed+Care+Revenue+Analyst');"/ >24 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Brooklyn, NY</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Employee and family <b>health</b> coverage. Concentration or major in <b>informatics</b> is desireable. First, our Medicare and Medicaid managed care <b>health</b> plans, are...
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>2 hours ago</span>
+<span id="tt_set_6"
+class=tt_set>
+
+
+- <span id="savelink2_007d01b39bda6ab0">
+
+
+
+
+<a id="sj_007d01b39bda6ab0" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[6]); toggleResultTab(this, 'anon_save_job6', 6);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_007d01b39bda6ab0"></span>
+
+
+
+
+<div id="editsaved2_007d01b39bda6ab0" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=007d01b39bda6ab0"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 6,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '007d01b39bda6ab0',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=007d01b39bda6ab0',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_6', 6);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_6" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=6&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_6', 6);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_6" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job6" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job6" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_6" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_6" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Mjhs-l-Brooklyn,-NY-jobs.html" rel="nofollow">MJHS jobs in Brooklyn, NY</a> - <a href="/l-Brooklyn,-NY-jobs.html">Brooklyn jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Managed+Care+Revenue+Analyst&l1=Brooklyn%2C+NY">Managed Care Revenue Analyst salaries in Brooklyn, NY</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Mjhs">MJHS</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Brooklyn-New-York.html">Brooklyn, New York</a>
+ - 
+
+<a href="/forum/cmp/Mjhs.html">MJHS</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_6"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_620bef45c7bc89ca" data-jk="620bef45c7bc89ca" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_620bef45c7bc89ca class=jobtitle>
+<a
+rel="nofollow"
+href="/cmp/Mercy-Health/jobs/Health-Data-Analyst-620bef45c7bc89ca?r=1" target="_blank"
+onmousedown="return rclk(this,jobmap[7],0);"
+onclick="return rclk(this,jobmap[7],true,0);"
+itemprop="title"
+title="Health Data Analyst"><b>Health</b> Data Analyst</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Mercy <b>Health</b></span></span>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Springfield, OH</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Span and Mercy <b>Health</b> Select population <b>health</b> initiatives. The <b>Health</b> Data Analyst will use the <b>Health</b>. Bachelor’s degree or better in business, computer...
+</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+
+
+
+
+
+
+
+<span
+class=date>56 minutes ago</span>
+<span id="tt_set_7"
+class=tt_set>
+
+
+- <span id="savelink2_620bef45c7bc89ca">
+
+
+
+
+<a id="sj_620bef45c7bc89ca" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[7]); toggleResultTab(this, 'anon_save_job7', 7);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_620bef45c7bc89ca"></span>
+
+
+
+
+<div id="editsaved2_620bef45c7bc89ca" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=620bef45c7bc89ca"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 7,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '620bef45c7bc89ca',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=620bef45c7bc89ca',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_7', 7);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_7" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=7&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_7', 7);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_7" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job7" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job7" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_7" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_7" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/q-Mercy-Health-l-Springfield,-OH-jobs.html" rel="nofollow">Mercy Health jobs in Springfield, OH</a> - <a href="/l-Springfield,-OH-jobs.html">Springfield jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Health+Data+Analyst&l1=Springfield%2C+OH">Health Data Analyst salaries in Springfield, OH</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Mercy-Health-3">Mercy Health</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Springfield-Ohio.html">Springfield, Ohio</a>
+ - 
+
+<a href="/forum/cmp/Mercy-Health-3.html">Mercy Health</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_7"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row  result" id="p_9f8471c1ce36031a" data-jk="9f8471c1ce36031a" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_9f8471c1ce36031a class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=9f8471c1ce36031a" target="_blank"
+onmousedown="return rclk(this,jobmap[8],0);"
+onclick="return rclk(this,jobmap[8],true,0);"
+itemprop="title"
+title="Director of Clinical Applications Full Time Exempt 8 Hours Hours Vary">Director of Clinical Applications Full Time Exempt 8 Hours H...</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Keck Medical Center of USC</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Keck-Medical-Center-of-Usc/reviews"  class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Director+of+Clinical+Applications+Full+Time+Exempt+8+Hours+Hours+Vary');"><span class="ratings"><span class="rating" style="width:46.75px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Keck-Medical-Center-of-Usc/reviews"  class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Director+of+Clinical+Applications+Full+Time+Exempt+8+Hours+Hours+Vary');"/ >16 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Los Angeles, CA</span></span></span>
+
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+Master’s degree in a related <b>health</b> care field an asset, but not required. Credentialed Registered Nurse with a Baccalaureate degree in nursing or related...
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>2 days ago</span>
+<span id="tt_set_8"
+class=tt_set>
+
+
+- <span id="savelink2_9f8471c1ce36031a">
+
+
+
+
+<a id="sj_9f8471c1ce36031a" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[8]); toggleResultTab(this, 'anon_save_job8', 8);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_9f8471c1ce36031a"></span>
+
+
+
+
+<div id="editsaved2_9f8471c1ce36031a" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=9f8471c1ce36031a"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 8,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': '9f8471c1ce36031a',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=9f8471c1ce36031a',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_8', 8);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_8" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=8&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_8', 8);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_8" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job8" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job8" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_8" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_8" class=more_actions style="display:none;">
+<ul>
+
+
+
+
+
+<li><span class=mat>
+View all <a href="/l-Los-Angeles,-CA-jobs.html">Los Angeles jobs</a>
+</span></li>
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Director+Clinical+Application+Full+Time+Exempt+Hour+Hour+Vary&l1=Los+Angeles%2C+CA">Director Clinical Application Full Time Exempt Hour Hour Vary salaries in Los Angeles, CA</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Keck-Medical-Center-of-Usc">Keck Medical Center of USC</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/loc/Los-Angeles-California.html">Los Angeles, California</a>
+ - 
+
+<a href="/forum/cmp/Keck-Medical-Center-of-Usc.html">Keck Medical Center of USC</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_8"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row lastRow result" id="p_eb2e577d0114a815" data-jk="eb2e577d0114a815" itemscope itemtype="http://schema.org/JobPosting">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2 id=jl_eb2e577d0114a815 class=jobtitle>
+<a
+rel="nofollow"
+href="/rc/clk?jk=eb2e577d0114a815" target="_blank"
+onmousedown="return rclk(this,jobmap[9],0);"
+onclick="return rclk(this,jobmap[9],true,0);"
+itemprop="title"
+title="Program Analyst (Informatics)">Program Analyst (<b>Informatics</b>)</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h2>
+
+
+<span class=company itemprop="hiringOrganization" itemtype="http://schema.org/Organization"><span itemprop="name">Department of Veterans Affairs</span></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Department-of-Veterans-Affairs/reviews" title="Department of Veterans Affairs reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Program+Analyst+%28Informatics%29');"><span class="ratings"><span class="rating" style="width:44.258824825286865px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Department-of-Veterans-Affairs/reviews" title="Department of Veterans Affairs reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Program+Analyst+%28Informatics%29');"/ >765 reviews</a>
+
+
+
+
+
+
+
+
+- <span itemprop="jobLocation" itemscope itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Las Vegas, NV</span></span></span>
+ - <a rel="nofollow" class=more_loc
+onmousedown="ptk('addlloc');"
+href="/jobs?q=health+informatics&rbt=Program+Analyst+%28Informatics%29&rbc=Department+of+Veterans+Affairs&jtid=804b0f4c9ea9560a&jcid=eb24c57e72a85c13&grp=tcl">+1 location</a>
+
+<table cellpadding=0 cellspacing=0 border=0>
+<tr>
+<td class=snip>
+
+
+
+
+
+<div>
+<span class=summary itemprop="description">
+The knowledge and skills gained from training and/or experience in a <b>health</b> science and/or allied scientific field, such as <b>Health</b> <b>Informatics</b>....
+</span>
+</div>
+
+
+
+
+
+<span
+class=date>7 days ago</span>
+<span id="tt_set_9"
+class=tt_set>
+
+
+- <span id="savelink2_eb2e577d0114a815">
+
+
+
+
+<a id="sj_eb2e577d0114a815" href="#" class="sl resultLink"
+onclick="anonSaveJobLabel(this, jobmap[9]); toggleResultTab(this, 'anon_save_job9', 9);return false;"
+title="Save this job to my.indeed">save job</a> -
+
+</span>
+
+
+<span id="addedit2_eb2e577d0114a815"></span>
+
+
+
+
+<div id="editsaved2_eb2e577d0114a815" class="edit_note_content" style="display:none;"></div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="mailto:?subject=I found this job on Indeed.com&body=http://www.indeed.com/viewjob?jk=eb2e577d0114a815"
+class="sl resultLink"
+onclick="
+if ( !hasAjax() ) { return; }
+toggle_email_job_content( this, 9,
+{
+'a': 'tellafriend',
+'tk' : '1972kdpet0nk10p0',
+'jobkey': 'eb2e577d0114a815',
+'q': 'health informatics',
+'permalink': 'http:\/\/www.indeed.com\/viewjob?jk=eb2e577d0114a815',
+'sbt': '6f290bf95bf1f1cf1f2eb9b426bbefc0',
+'fromEmail': window['tellFriendEmail']
+},
+{fbRef: 'search'}
+);
+toggleResultTab(this, 'email_job_content_9', 9);
+return false;">
+email</a>
+-
+
+
+
+<a href="#" id="tog_9" class="sl resultLink"
+onmousedown="if ( window.rpc ) { rpc('/rpc/log?a=opma&tk=1972kdpet0nk10p0&p=9&ts=1416353998301'); this.onmousedown=null; }"
+onclick="toggleResultTab(this, 'more_9', 9);return false;">more...</a>
+
+</span>
+
+<div id="tt_display_9" class=tt_display style="display:none;">
+
+
+
+<div id="anon_save_job9" class="ws_content save_job_content" style="display:none;"></div>
+
+<div id="block_job9" class="ws_content block_job_content" style="display:none;"></div>
+
+<div id="email_job_content_9" class="ws_content email_job_content" style="display:none;"></div>
+
+
+
+<div id="more_9" class=more_actions style="display:none;">
+<ul>
+
+
+
+<li><span class=mat>
+View all <a href="/jobs?q=Department+of+Veterans+Affairs&l=Las+Vegas,+NV&nc=jasx" rel="nofollow">Department of Veterans Affairs jobs in Las Vegas, NV</a> - <a href="/l-Las-Vegas,-NV-jobs.html">Las Vegas jobs</a>
+</span></li>
+
+
+
+
+
+
+<li><span class=mat>
+
+Salary Search: <a href="/salary?q1=Program+Analyst&l1=Las+Vegas%2C+NV">Program Analyst salaries in Las Vegas, NV</a>
+
+
+</span></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><span class="mat">Learn more about working at <a
+href="/cmp/Department-of-Veterans-Affairs">Department of Veterans Affairs</a></span>
+</li>
+
+
+
+
+
+
+
+<li><span class=mat>Related forums:
+
+<a href="/forum/job/Program-Analyst.html">Program Analyst</a>
+ - 
+
+<a href="/forum/loc/Las-Vegas-Nevada.html">Las Vegas, Nevada</a>
+ - 
+
+<a href="/forum/cmp/Department-of-Veterans-Affairs.html">Department of Veterans Affairs</a>
+
+
+</span></li>
+
+</ul>
+<div id="options_9"></div>
+
+</div>
+
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div></div>
+<div class="PKLatUDbP dPexVhV6H5">
+<div class="brdr"><!-- --></div>
+
+<div class="row  result" data-jk="a67dde5828b1d30c">
+
+
+
+
+
+
+
+<a target="_blank" id="sja3" class=jobtitle href="/pagead/clk?mo=r&ad=-6NYlbfkN0Be3nNbZ_Lc778k04SYFLrucOcVkDVrJl14MFSrwlS7CBZkEiwfdt1z0rrGuN6Baeeyccq8Ae1sbWpNHTRnQulFjpopYizWDMS3ZPSn7VfJHKn5pilEsKweXy9UWoZzMy4qbSrYRoMthTKZvvKE6WNbUknSd3x0Y4SvkbBBwdb25ZSZSb5U3nNt_3RcdYOnvoTxjVWjMljPYvRjLnjqqvQmlrSiV3dMdnEdMah-zeR2oxoFfmTirdctsnaZ5lfyz9YhZa-ratEF3VEK6w-5n6EJxaD3WwAVxQjFKI1yIyot91T-i3ZAdTDGAapPMRey5kk7kJjXhPMJhbe25jwIHJ0kKPaLrAZ5p8qeKbiH2_ocSFiJ6yHKOnFdwyjKBir4oUW9KDsKM86MBvy1L3hfcxytpS2Qze1o4OwAuUYgXAbXGY0GjewMOeX0BeottUuxHTVxEJqPJpl22k7IqR8R1OTvuIlej6V7ihOsOjLi57cPbmS7XHL6FIwCiblE2fqxotCLeCbi4I8UaUFhSWZcuzuRvLbMKPEFRyucuFQbB1TQE4mqzo_kS3X0xchI7hglAjY=&p=3&sk=e1afc4074a98a99e" title="Clinical Informatics Specialist/Scribe" rel="nofollow" onmousedown="sjomd('sja3'); clk('sja3');" onclick="sjoc('sja3',0); convCtr('SJ', pingUrlsForGA)">Clinical <b>Informatics</b> Specialist/Scribe</a>
+
+
+
+
+
+
+<br>
+<div class="sjcl">
+
+<span class=company>Oak Street <b>Health</b></span>
+
+
+
+
+
+
+
+- <span class=location>Chicago, IL</span>
+
+
+</div>
+<table cellpadding=0 cellspacing=0 border=0><tr><td class=snip>
+<span class=summary>Why Oak Street <b>Health</b>? Clinical <b>Informatics</b> Specialists are trained to be experts in structured clinical assessments, accurate and specific documentation,...</span>
+</td></tr></table>
+
+
+
+
+<span class=sdn>Sponsored by <b>Oak Street Health</b></span>&nbsp;-&nbsp;<span class=date>30+ days ago</span>
+
+
+</div>
+
+<div class="row  result" data-jk="5bd685bf6bb4fe88">
+
+
+
+
+
+
+
+<a target="_blank" id="sja4" class=jobtitle href="/pagead/clk?mo=r&ad=-6NYlbfkN0AQPkHd5AndXxMJnm-sXQHSgvmUOWkR69FO7fQ82j04c36muau0-i8CMejzEnIKu03hixuAAkYHMeQPJkkw19sw-EQHE7XnnN8gQ9HsWXVHj9CEHKeWhgYGzD70Tzhbd12qXoTrYURIx78MxFtAfCJESRT878uYJX64L8v1m3GAPP793VTCLZ27qrp5G1cwgjaGXiL5SMIrztJEv5wZ3ohU0FfBTDM_B63LZGE9yTUhQ2u_-eoyqf8iOtNbAU2MpCoh87wNceCuydT6fewIVBaVD4EtO8vSS38_24AsXE8eEFPfXRL-y5WHFrBZtVmnkPPcaOhcjisTZPw0Uj-eBF0TzXyoTUDRqU1t9C9uaR-rv5Bh2ChqiStCzugx0IzlYv0bzJDBjSHpmAKIlC4v_DdgV5wHkmUdeyrPfRSfoKozRz1ulyY7kuPkb4gnsx4M05s_Pn70lPIfS-MweUQHJC_drD3RxYO6u21n1l6esqv_nOUp_4djovKuB5xrek94wrGtFUHjxHp4DpA4FP8bWoFrAvi9DOPvD27VewYBxXnsMl_Rqg5qzUVA8oZ6FmlV6FH26bQiMdM5IrIBr4MDl9v38Jg26L0W8M5FMKEYa0GAigKlAriOgQVG3mmlSnhPupQRPAqjOUotLgTvwyk66TgrsQx46u60zQ_aU2mggzVmj8pDEwNZCgZXo6BeMa32_vqxBwkxdBzJBAAJVq4gWom099FFGyvX7MVeto7lo9f4v-d3zZAkP5hubPVZP3VXuHByH2Wq752sag==&p=4&sk=e1afc4074a98a99e" title="PROGRAM ANALYST PHM" rel="nofollow" onmousedown="sjomd('sja4'); clk('sja4');" onclick="sjoc('sja4',0); convCtr('SJ', pingUrlsForGA)">PROGRAM ANALYST PHM</a>
+
+
+
+
+
+
+<br>
+<div class="sjcl">
+
+<span class=company>Dignity <b>Health</b></span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Dignity-Health/reviews" title="Dignity Health reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=PROGRAM+ANALYST+PHM');"><span class="ratings"><span class="rating" style="width:43.770301818847656px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Dignity-Health/reviews" title="Dignity Health reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=PROGRAM+ANALYST+PHM');"/ >431 reviews</a>
+
+
+
+
+
+
+
+- <span class=location>Sacramento, CA</span>
+
+
+</div>
+<table cellpadding=0 cellspacing=0 border=0><tr><td class=snip>
+<span class=summary>About Dignity <b>Health</b>. This position is under the supervision of the Program Manager for 4D and PHM and will interact with the GSSA Clinical <b>Informatics</b> Team,...</span>
+</td></tr></table>
+
+
+
+
+<span class=sdn>Sponsored by <b>Dignity Health</b></span>&nbsp;-&nbsp;<span class=date>30+ days ago</span>
+
+
+</div>
+
+<div class="row sjlast result" data-jk="a97544cb4401a6a5">
+
+
+
+
+
+
+
+<a target="_blank" id="sja5" class=jobtitle href="/pagead/clk?mo=r&ad=-6NYlbfkN0B5RwXILQyFrLVNCqtDsfJYhweiRmCXeWR548JHiE8HlsStUU_zKkSyoWvm601Yw6aW1HWhguQ1nshl4tUbRtex46U9UiTjQpAw7TpYdhGdYuwpQjGAl-j-ZdhDG_fbN5NL-mror4_Hhqjw1oqT_tNOPLlaWpIMsKNgZWdTqVnnyqDZrEDmgDq4Z3J2sWwspxQjiL96oVmKHJO-3W94zYIUPYsO-C-ZKd8m5F5ss0-svTEqBQqLWoF19bRCKONfS2RU4PrG28G-AzATGJGyTYj_5OMRlbTp1UjT9enBlDFppQov0XZj4S4CBYsSI1gAA-D2ZnVi2YkLpDch5SpXW0TQxluRuG4DbDIulUd_H2fN0iGVXP5AaVvv_dVY6ffK9rAFta9XcWxRZTdhaAvvzwFC4QPPDpxPCfKXRIx7X9-fD0QAIY5YkIvz1KkOk2grrwPIrL8mWnhhlGCGzp_EYU1fXkLbNfijOaBFxNaHk899JSpRmHnpv2IXNYDe5KE4JuFfiaB09_7cUQ==&p=5&sk=e1afc4074a98a99e" title="Clinical Informatics Specialist" rel="nofollow" onmousedown="sjomd('sja5'); clk('sja5');" onclick="sjoc('sja5',0); convCtr('SJ', pingUrlsForGA)">Clinical <b>Informatics</b> Specialist</a>
+
+
+
+
+
+
+<br>
+<div class="sjcl">
+
+<span class=company>Charter Oak <b>Health</b> Center</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+
+
+
+    
+    
+
+<a class="" href="/cmp/Charter-Oak-Health-Center/reviews" title="Charter Oak Health Center reviews" class="ratingsLabel" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Specialist');"><span class="ratings"><span class="rating" style="width:36.66666579246521px;"><!-- --></span></span></a>
+
+    
+        
+        
+    
+    <a class="" href="/cmp/Charter-Oak-Health-Center/reviews" title="Charter Oak Health Center reviews" class="sl" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=SERP&jt=Clinical+Informatics+Specialist');"/ >6 reviews</a>
+
+
+
+
+
+
+
+- <span class=location>Hartford, CT</span>
+
+
+</div>
+<table cellpadding=0 cellspacing=0 border=0><tr><td class=snip>
+<span class=summary>Master’s degree in healthcare or clinical <b>informatics</b> or related field. This role provides analytic support to follow clinical outcomes for proper disease...</span>
+</td></tr></table>
+
+
+
+
+<span class=sdn>Sponsored by <b>Charter Oak Health Center</b></span>&nbsp;-&nbsp;<span class=date>30+ days ago</span>
+
+
+</div>
+
+
+</div>
+
+
+<script type="text/javascript">
+initViewSj('1972kdpet0nk10p0', 'dPexVhV6H5');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="bjobalerts" class="jaui open  R11q6vdtH">
+
+
+
+<div class="jobalertlabel">
+
+
+<span id="bjobalertlabel" class=jobalerts_title><span class=ico></span>Get email updates for the latest <b>health informatics jobs</b></span>
+
+
+
+</div>
+<div id="bjobalertform" class="jaform">
+<span id="bjobalerttext"></span><span id="bjobalertsending"></span>
+<div id="bjobalertmessage">
+
+
+
+
+
+
+
+<form action="/alert" method=POST onsubmit="return addalert('health+informatics','','b','',this.email.value,'1972kdpet0nk10p0', this.verified.value, false, 'inTest', true, '526930', 'US');">
+<input type=hidden name=a value="add">
+<input type=hidden name=q value="health informatics">
+<input type=hidden name=l value="">
+<input type=hidden name=radius value="25">
+<input type=hidden name=noscript value="1">
+<input type=hidden name=fr value="b">
+<input type=hidden name=tk value="1972kdpet0nk10p0">
+<input id="balertverified" type=hidden name=verified value="0">
+<input type=hidden name=alertparams value="">
+<label for="balertemail">My email:</label> <input type=text id="balertemail" name=email value="" size=25 maxlength=100>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<span class="indeed-apply-button"><span class="indeed-apply-button-inner"><input id="balertsubmit" type=submit value="Activate" class="indeed-apply-button-label" data-criteoState="inTest"></span></span>
+
+
+
+<style type="text/css">
+.indeed-apply-button { cursor : pointer !important; display : inline-block !important; padding : 1px !important; height : 31px !important; -moz-border-radius : 7px !important; border-radius : 7px !important; position : relative !important; text-decoration : none !important;background-color:#79788B; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#BCBBCD', endColorstr='#79788B', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#BCBBCD), to(#79788B)) !important;background-image: -webkit-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -moz-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -o-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -ms-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: linear-gradient(top, #BCBBCD, #79788B) !important;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important; } #indeed-ia-1329175190441-0:link, #indeed-ia-1329175190441-0:visited, #indeed-ia-1329175190441-0:hover, #indeed-ia-1329175190441-0:active { border : 0 !important; text-decoration : none !important; }
+
+.indeed-apply-button:hover { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6D99F6', endColorstr='#1B45A3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#6D99F6), to(#1B45A3)) !important;background-image: -webkit-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -moz-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -o-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -ms-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: linear-gradient(top, #6D99F6, #1B45A3) !important; }
+
+.indeed-apply-state-clicked .indeed-apply-button,
+.indeed-apply-button:active { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#B3BACA', endColorstr='#7C8493', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#B3BACA), to(#7C8493)) !important;background-image: -webkit-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -moz-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -o-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -ms-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: linear-gradient(top, #B3BACA, #7C8493) !important;-webkit-box-shadow: none !important;-moz-box-shadow: none !important;box-shadow: none !important; }
+
+.indeed-apply-button-inner { display : inline-block !important; height : 26px !important; padding : 3px 14px 2px 12px !important; -moz-border-radius : 6px !important; border-radius : 6px !important; font : 18px 'Helvetica Neue','Helvetica',Arial !important; font-weight : 200 !important; text-decoration : none !important; text-shadow : 0px 1px #F1F1F4 !important;background-color:#D9D9E2;  color: #FF6703;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FAFAFB', endColorstr='#D9D9E2', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#FAFAFB), to(#D9D9E2)) !important;background-image: -webkit-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -moz-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -o-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -ms-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: linear-gradient(top, #FAFAFB, #D9D9E2) !important; }
+
+.indeed-apply-button:active .indeed-apply-button-inner { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8E8E9', endColorstr='#CBCBD3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#E8E8E9), to(#CBCBD3)) !important;background-image: -webkit-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -moz-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -o-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -ms-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: linear-gradient(top, #E8E8E9, #CBCBD3) !important; }
+
+.indeed-apply-button-label {cursor: pointer; text-align : center !important; border:0; background: transparent;font-size: 12px; font-family: Arial, sans-serif; padding:0; margin:0; line-height: 26px;  }
+
+.indeed-apply-button:active .indeed-apply-button-label,
+.indeed-apply-state-clicked .indeed-apply-button-label { -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.75)" !important;filter: alpha(opacity=75) !important;-moz-opacity: 0.75 !important;-khtml-opacity: 0.75 !important;opacity: 0.75 !important; }
+
+#talertemail, #balertemail {  height: 27px; line-height: 24px; padding-left: 6px; padding-right: 6px; font-size: 14px; font-family: Arial, sans-serif; }
+</style>
+
+</form>
+<span class=caption>
+
+
+
+You can cancel email alerts at any time.
+
+</span>
+</div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+function ptk(st,p) {document.cookie = 'PTK="tk=1972kdpet0nk10p0&type=jobsearch&subtype='+st+(p?'&'+p:'')+'"; path=/';}
+</script>
+
+<script type="text/javascript">
+function pclk(event) {
+var evt = event || window.event;
+var target = evt.target || evt.srcElement;
+var el = target.nodeType == 1 ? target : target.parentNode;
+var tag = el.tagName.toLowerCase();
+if (tag == 'span' || tag == 'a') {
+ptk('pagination');
+}
+return true;
+}
+</script>
+<!--default behavior is to show the pagination-->
+
+
+<div class=pagination onmousedown="pclk(event);">Results&nbsp;Page:&nbsp;&nbsp;<a href="/jobs?q=health+informatics"><span class=pn><span class=np>&laquo;&nbsp;Previous</span></span></a>&nbsp; <a href="/jobs?q=health+informatics"><span class=pn>1</span></a>&nbsp;&nbsp;<b>2</b>&nbsp;&nbsp;<a href="/jobs?q=health+informatics&start=20" rel="nofollow"><span class=pn>3</span></a>&nbsp;&nbsp;<a href="/jobs?q=health+informatics&start=30" rel="nofollow"><span class=pn>4</span></a>&nbsp;&nbsp;<a href="/jobs?q=health+informatics&start=40" rel="nofollow"><span class=pn>5</span></a>&nbsp;&nbsp;<a href="/jobs?q=health+informatics&start=50" rel="nofollow"><span class=pn>6</span></a>&nbsp;&nbsp; <a href="/jobs?q=health+informatics&start=20" rel="nofollow"><span class=pn><span class=np>Next&nbsp;&raquo;</span></span></a></div>
+
+
+
+
+
+
+
+
+
+<div class="wideAds"><div id="bottomadsense" class="hasu hass4"></div></div>
+
+
+
+
+
+
+
+
+
+
+</td>
+<td id=auxCol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="tjobalerts" class="jaui open  ">
+
+
+
+<div class="jobalertlabel">
+
+
+<span id="tjobalertlabel" class=jobalerts_title><span class=ico></span>Get new jobs for this search by email</span>
+
+
+
+</div>
+<div id="tjobalertform" class="jaform">
+<span id="tjobalerttext"></span><span id="tjobalertsending"></span>
+<div id="tjobalertmessage">
+
+
+
+
+
+
+
+<form action="/alert" method=POST onsubmit="return addalert('health+informatics','','t','',this.email.value,'1972kdpet0nk10p0', this.verified.value, false, 'inTest', true, '526930', 'US');">
+<input type=hidden name=a value="add">
+<input type=hidden name=q value="health informatics">
+<input type=hidden name=l value="">
+<input type=hidden name=radius value="25">
+<input type=hidden name=noscript value="1">
+<input type=hidden name=fr value="t">
+<input type=hidden name=tk value="1972kdpet0nk10p0">
+<input id="talertverified" type=hidden name=verified value="0">
+<input type=hidden name=alertparams value="">
+<label for="talertemail">My email:</label> <input type=text id="talertemail" name=email value="" size=25 maxlength=100>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<span class="indeed-apply-button"><span class="indeed-apply-button-inner"><input id="talertsubmit" type=submit value="Activate" class="indeed-apply-button-label" data-criteoState="inTest"></span></span>
+
+
+
+<style type="text/css">
+.indeed-apply-button { cursor : pointer !important; display : inline-block !important; padding : 1px !important; height : 31px !important; -moz-border-radius : 7px !important; border-radius : 7px !important; position : relative !important; text-decoration : none !important;background-color:#79788B; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#BCBBCD', endColorstr='#79788B', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#BCBBCD), to(#79788B)) !important;background-image: -webkit-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -moz-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -o-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -ms-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: linear-gradient(top, #BCBBCD, #79788B) !important;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important; } #indeed-ia-1329175190441-0:link, #indeed-ia-1329175190441-0:visited, #indeed-ia-1329175190441-0:hover, #indeed-ia-1329175190441-0:active { border : 0 !important; text-decoration : none !important; }
+
+.indeed-apply-button:hover { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6D99F6', endColorstr='#1B45A3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#6D99F6), to(#1B45A3)) !important;background-image: -webkit-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -moz-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -o-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -ms-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: linear-gradient(top, #6D99F6, #1B45A3) !important; }
+
+.indeed-apply-state-clicked .indeed-apply-button,
+.indeed-apply-button:active { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#B3BACA', endColorstr='#7C8493', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#B3BACA), to(#7C8493)) !important;background-image: -webkit-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -moz-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -o-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -ms-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: linear-gradient(top, #B3BACA, #7C8493) !important;-webkit-box-shadow: none !important;-moz-box-shadow: none !important;box-shadow: none !important; }
+
+.indeed-apply-button-inner { display : inline-block !important; height : 26px !important; padding : 3px 14px 2px 12px !important; -moz-border-radius : 6px !important; border-radius : 6px !important; font : 18px 'Helvetica Neue','Helvetica',Arial !important; font-weight : 200 !important; text-decoration : none !important; text-shadow : 0px 1px #F1F1F4 !important;background-color:#D9D9E2;  color: #FF6703;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FAFAFB', endColorstr='#D9D9E2', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#FAFAFB), to(#D9D9E2)) !important;background-image: -webkit-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -moz-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -o-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -ms-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: linear-gradient(top, #FAFAFB, #D9D9E2) !important; }
+
+.indeed-apply-button:active .indeed-apply-button-inner { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8E8E9', endColorstr='#CBCBD3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#E8E8E9), to(#CBCBD3)) !important;background-image: -webkit-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -moz-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -o-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -ms-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: linear-gradient(top, #E8E8E9, #CBCBD3) !important; }
+
+.indeed-apply-button-label {cursor: pointer; text-align : center !important; border:0; background: transparent;font-size: 12px; font-family: Arial, sans-serif; padding:0; margin:0; line-height: 26px;  }
+
+.indeed-apply-button:active .indeed-apply-button-label,
+.indeed-apply-state-clicked .indeed-apply-button-label { -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.75)" !important;filter: alpha(opacity=75) !important;-moz-opacity: 0.75 !important;-khtml-opacity: 0.75 !important;opacity: 0.75 !important; }
+
+#talertemail, #balertemail {  height: 27px; line-height: 24px; padding-left: 6px; padding-right: 6px; font-size: 14px; font-family: Arial, sans-serif; }
+</style>
+
+</form>
+<span class=caption>
+
+
+
+You can cancel email alerts at any time.
+
+</span>
+</div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div id="femp_list">
+<div class="femp_header">Company with health informatics jobs</div>
+
+
+
+
+
+<div class="femp_item">
+    
+        
+        
+        
+        
+        
+            
+        
+    
+    <div class="femp_logo"><a href="/cmp/Dignity-Health?tk=1972kdpet0nk10p0" target=_blank onmousedown="this.href = appendParamsOnce(this.href, '&campaignid=featemp');"><img src="https://d1ewxbznfa539k.cloudfront.net/s/_logo/b58a4ec740d001f1c00177ec9f840965.png" width=120 alt="DIGNITY HEALTH"/></a></div>
+    <div class="femp_cmp"><a class="femp_cmp_link" href="/cmp/Dignity-Health?tk=1972kdpet0nk10p0" target=_blank onmousedown="this.href = appendParamsOnce(this.href, '&campaignid=featemp');">DIGNITY HEALTH</a></div>
+    <div class="femp_randr"><span class="ratings"><span class="rating" style="width:44.0px;"><!-- --></span></span> <span class="femp_meta">431 reviews</span></div>
+    <div class="femp_desc">Dignity Health is one of the nation&rsquo;s leading hospital networks with opportunities available at 40 hospitals in AZ, CA, and NV.</div>
+
+    
+        <div id='featemp_sj' class="featemp_sjl" style='display: none'>
+            <div class="featemp_sjh">DIGNITY HEALTH is hiring</div>
+            <div id="indJobContent"></div>
+        </div>
+
+        <script type='text/javascript'>
+            var ind_nr = true;
+            var ind_pub = '8772657697788355';
+            var ind_el = 'indJobContent';
+            var ind_pf = '';
+            var ind_q = '';
+            var ind_fcckey = 'b8e2786cbdcee644';
+            var ind_l = '';
+            var ind_chnl = 'DIGNITY HEALTH';
+            var ind_n = 3;
+            var ind_d = '';
+            var ind_t = 60;
+            var ind_c = 30;
+            var ind_rq = 'health informatics';
+        </script>
+        <script type='text/javascript' src='/jobroll-widget-v3-fc2.js'></script>
+        <script type='text/javascript'>
+            window.indeedJobroll.origJobsCallback = window.indeedJobroll.jobsCallback;
+            window.indeedJobroll.jobsCallback=function(contentId, content) {
+                var sjDiv = document.getElementById('featemp_sj');
+                if (content.length <= 33 && sjDiv) {
+                    sjDiv.style.display = 'none';
+                } else {
+                    if (sjDiv) { sjDiv.style.display = 'block'; }
+                    window.indeedJobroll.origJobsCallback(contentId, content);
+                }
+            };
+        </script>
+    
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="narrowAds"><div id="sideadsense" class="vasu"></div></div>
+
+
+
+
+
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+<script>
+var focusHandlers = [];
+var linkHighlighter = new LinkHighlighter();
+focusHandlers.push(googBind(linkHighlighter.fadeToOriginalColor, linkHighlighter));
+var lostFocusHandlers = [];
+lostFocusHandlers.push(googBind(linkHighlighter.clickedAway, linkHighlighter));
+
+var clickTime = new ClickTime(window.tk, 'serp', 'jobtitle', focusHandlers, lostFocusHandlers);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+#secondary_nav a,
+#secondary_nav a:link,
+#secondary_nav a:visited { color: #77c; text-decoration: none; }
+#secondary_nav a:hover { text-decoration: underline;  }
+</style>
+<!-- jobs -->
+
+
+<div id="footerWrapper" style="text-align:center;">
+<div id="footer" style="text-align:left;">
+<div class="separator_bottom"></div>
+
+<div id="secondary_nav">
+
+<div style="margin: 1em;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="gaj_heading">Indeed helps people get jobs:</span> <a href="/promo/gotajob" onmousedown="this.href = appendParamsOnce( this.href, '?trk.origin=jobsearch&trk.tk=1972kdpet0nk10p0')" class="sl">Over 2.2 million stories shared</a>
+
+
+
+</span></div>
+
+
+
+
+
+
+
+
+
+<a href="/" title="Jobs" id="jobs_product_link">Jobs</a> - 
+<a href="/salary" title="Salary Search" id="salaries_product_link">Salaries</a> - 
+<a href="/jobtrends" title="Career Trends" id="trends_product_link">Trends</a> - 
+<a href="/forum" title="Employment Forums" id="forums_product_link">Forums</a> - 
+
+
+
+<script type="text/javascript">
+
+
+document.getElementById('salaries_product_link').onclick = function() { if ( !document.js ) { return; } var q = document.js.q.value; var l = document.js.l.value; if ( q || l ) { window.location = '/salary?q1=' + urlencode( q ) + '&l1=' + urlencode( l ); return false; } };
+document.getElementById('trends_product_link').onclick = function() { if ( !document.js ) { return; } var q = document.js.q.value; if ( q ) { window.location = '/jobtrends?q=' + urlencode( q ) + '&l=' + urlencode( document.js.l.value ); return false; } };
+document.getElementById('forums_product_link').onclick = function() { if ( !document.js ) { return; } var q = document.js.q.value; if ( q ) { window.location = '/forum/?q=' + urlencode( q ) + '&l=' + urlencode( document.js.l.value ); return false; } };
+
+
+
+
+
+</script>
+
+<a href="/find-jobs.jsp">Browse Jobs</a> - 
+
+
+
+
+<a href="/tools/jobseeker/">Tools</a> - 
+
+
+<a href="/publisher">API</a> - 
+
+<a href="/intl/en/about.html"><nobr>About</nobr></a> - 
+<a href="/support">Contact</a>
+
+
+
+<style type="text/css">
+#footer-legal {
+margin-top: 10px;
+font-size: 9pt;
+}
+</style>
+<div id="footer-legal">&copy;2014 Indeed - <a href="/legal" class="sl">Cookies, Privacy and Terms</a></div>
+</div>
+</div>
+</div>
+
+</td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        function mc_cv_tag(activityId) {
+            var ebRand = Math.random()+'';
+            ebRand = ebRand * 1000000;
+
+            var tagContainer = document.body.appendChild(document.createElement("div"));
+            tagContainer.style.position="absolute";
+            tagContainer.style.top="0";
+            tagContainer.style.left="0";
+            tagContainer.style.width="1px";
+            tagContainer.style.height="1px";
+            tagContainer.style.display="none";
+
+            var jsTag = document.createElement('script');
+            jsTag.src = 'HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&ActivityID=' + activityId + '&rnd=' + ebRand;
+            jsTag.style.width="1px";
+            jsTag.style.height="1px";
+            jsTag.style.border="0";
+
+            var noScript = document.createElement("noscript");
+            noScript.innerHTML = '<img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/Serving/ActivityServer.bs?cn=as&ActivityID=' + activityId + '&ns=1"/>';
+
+            tagContainer.appendChild(jsTag);
+            tagContainer.appendChild(noScript);
+        }
+    </script>
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+(function ( tk ) { if ( tk && document.images ) { var s="/", q="?", a="&", e="="; rpc(s+"rpc"+s+"log"+q+"a"+e+"jsv"+a+"tk"+e+tk); } })('1972kdpet0nk10p0');
+function jsall_loaded() {
+
+attachSjBlock('1972kdpet0nk10p0');
+attachJaBlock('1972kdpet0nk10p0');
+}
+if (window['closureReady'] === true) {
+jsall_loaded();
+}
+//-->
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+    .wideAds { clear: both; }
+    .wideAdsLoaded { margin-bottom: 9px; padding-top: 1px; padding-bottom: 1px; }
+    #bottomadsense, #topadsense { line-height: 0; margin-bottom: 0; }
+    .wideAdsLoaded #bottomadsense, .wideAdsLoaded #topadsense  { margin-top: 1px; margin-bottom: 2px; }
+    .narrowAds { margin: 4px; padding-top: 8px; }
+    @media only screen and (min-width:1125px) {
+        .wideAds { padding-left: 8px; padding-right: 8px; }
+    }
+</style>
+<script src="http://www.google.com/adsense/search/ads.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+try {
+new google.ads.search.Ads(
+    {
+        "pubId": "indeed-na-us_js",
+        "channel": '3064462960+5521608224+9040689988+2813565869+4737657411+1000000059+kwexprev4+ggltxttst1+iPad_ads1+afs-SJ2',
+        
+
+        "query": "health informatics work",
+        "queryContext": "work",
+        "gl": "us",
+        "adPage": "1",
+        "hl": "en",
+        "oe": "utf8",
+        "ie": "utf8",
+        "domainLinkAboveDescription": false,
+        "linkTarget": "_blank",
+
+        "adsafe": "high",
+        "sellerRatings": false,
+        "siteLinks": false,
+        "instantPreviews": false,
+        "plusOnes": false,
+        "location": false
+    }
+    
+    
+    ,
+    {
+        "container": "bottomadsense",
+        "number": 3,
+
+        "longerHeadlines": false,
+        "lines": 2,
+        "width": "auto",
+        "fontFamily": "arial",
+        "fontSizeTitle": 16,
+        "fontSizeDescription": 13,
+        "fontSizeDomainLink": 13,
+        "lineHeightTitle": 20,
+        "lineHeightDescription": 16,
+        "lineHeightDomainLink": 16,
+        "lineHeightAttribution": 16, 
+        "colorTitleLink": "#0000CC",
+        "colorText": "#000000",
+        "colorDomainLink": "#008040",
+        "colorBackground": "#FFF8E8",
+        "noTitleUnderline": false,
+        "verticalSpacing": 8,
+        "colorAttribution": "#6F6F6F",
+        "fontFamilyAttribution": "arial",
+        "fontSizeAttribution": 13,
+        "titleBolt": false,
+        "detailedAttribution": false,
+        "rightHandAttribution": true,
+        "attributionSpacingBelow": 0
+    }
+    
+    
+);
+
+var adUnitsRequested = {};
+
+adUnitsRequested["bottomadsense"] = {"logName":"bot","estimateImps":0,"logProperty":null};
+
+recordAdsenseImpressions(
+        "health informatics work",
+        3,
+        "3064462960,5521608224,9040689988,2813565869,4737657411,1000000059,kwexprev4,ggltxttst1,iPad_ads1,afs-SJ2",
+        "en",
+        adUnitsRequested
+);
+} catch (adsenseErr) {
+    
+    handleAdSenseError(adsenseErr);
+}
+
+
+var divIndicators = {};
+
+divIndicators['bottomadsense'] = 'bottom';
+
+detectIframeClicksOn(divIndicators);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+
+<script type="text/javascript">(function(d,s){var js=d.getElementsByTagName(s)[0];var
+        r=d.createElement(s);r.async=true;r.src=("https:"==location.protocol?"https:":"http:")+"//static.criteo.net/js/ld/ld.js";js.parentNode
+        .insertBefore(r,js)})(document,"script")</script>
+
+<script type="text/javascript">
+    var query = "Health Informatics" + "-" + "" + "-";
+    window.criteo_q = window.criteo_q || [];
+    window.criteo_q.push(
+            { event: "setAccount", account: 11805 },
+            { event: "setSiteType", type: "d" });
+    
+        
+        
+            window.criteo_q.push(
+                    { event: "viewList", item: [query + (Math.floor(Math.random()*6)+1), query + (Math.floor(Math.random()*6)+1), query + (Math.floor(Math.random()*6)+1)] },
+                    { event: "viewItem", item: query + (Math.floor(Math.random()*6)+1) });
+        
+    
+</script>
+
+<script type="text/javascript">
+    function cto_cv_pxl(jobName,location,convId,nc){
+        var query = jobName + "-" + location + "-" + (Math.floor(Math.random()*6)+1);
+        window.criteo_q = window.criteo_q || [];
+        window.criteo_q.push(
+                { event: "setAccount", account: 11805 },
+                { event: "manualDising" },
+                { event: "setSiteType", type: "d" },
+                { event: "setData", si: "1" },
+                { event: "trackTransaction" , id: convId, new_customer: nc, deduplication: 1, item: [
+                    { id: query, price: 1, quantity: 1 }
+                ]});
+    }
+</script>
+
+<script type="text/javascript">
+    function cto_dd_pxl(jobName,location,convId,nc){
+        var query = jobName + "-" + location + "-" + (Math.floor(Math.random()*6)+1);
+        window.criteo_q = window.criteo_q || [];
+        window.criteo_q.push(
+                { event: "setAccount", account: 11805 },
+                { event: "manualDising" },
+                { event: "setSiteType", type: "d" },
+                { event: "trackTransaction" , id: convId, new_customer: nc, deduplication: 0, item: [
+                    { id: query, price: 1, quantity: 1 }
+                ]});
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+    
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+PENDING_ANALYTICS_VARS = window.PENDING_ANALYTICS_VARS || [];
+PENDING_ANALYTICS_VARS[PENDING_ANALYTICS_VARS.length] = ['_setCustomVar', 4, 'semRevTest', '-1', 1];
+</script>
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+PENDING_ANALYTICS_VARS = window.PENDING_ANALYTICS_VARS || [];
+PENDING_ANALYTICS_VARS[PENDING_ANALYTICS_VARS.length] = ['_setCustomVar', 5, 'loggedIn', 'false', 3];
+</script>
+
+
+
+    
+
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-90780-1']);
+
+
+
+(function() {
+if (window.PENDING_ANALYTICS_VARS && window.PENDING_ANALYTICS_VARS.length > 0) {
+  for (var i in PENDING_ANALYTICS_VARS) {
+    _gaq.push(PENDING_ANALYTICS_VARS[i]);
+  }
+}
+})();
+  
+_gaq.push(['_trackPageview']);
+
+_gaq.push(['_trackPageLoadTime']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+
+
+    
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6486505", c4:"www.indeed.com/jobs", c15:"1972kdpes0nk16fn"});
+(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6486505&c4=www.indeed.com%2Fjobs&c15=1972kdpes0nk16fn&cv=2.0&cj=1" style="display:none" width="0" height="0" alt=""/>
+</noscript>
+
+
+
+
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1049100955;
+    var google_conversion_label = "GXkhCM2YtwMQm4Wg9AM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1049100955/?value=0&label=GXkhCM2YtwMQm4Wg9AM&guid=ON&script=0"/>
+    </div>
+</noscript>
+
+</body>
+</html>
