@@ -1,10 +1,14 @@
 # job-crawler
 
-FIXME: description
+Crawls job sites to extract pertinent info such as the title, description, etc.
 
-## Installation
+Initial support for Indeed.com only
 
-Download from http://example.com/FIXME.
+## Development
+
+Uses the following libraries:
+
+- [cgrand/enlive](https://github.com/cgrand/enlive) for parsing HTML
 
 ## Usage
 
@@ -30,7 +34,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2016, Andrew Nguyen
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
